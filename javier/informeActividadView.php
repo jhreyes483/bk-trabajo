@@ -32,7 +32,7 @@ $c = $obj->traeDatos();
 
 
 <script src="/js/jquery-3.3.1.min.js"></script>
-<script src="/JsScripts/Chart_2_9_3/Chartmin.js"></script>
+<script src="/Js/Charts.js"></script>
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 
 <script src="/js/fontawesome-all.js"></script>
